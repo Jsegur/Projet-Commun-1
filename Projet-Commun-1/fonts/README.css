@@ -1,0 +1,17 @@
+@font-face{
+  font-family: 'Police-Title';
+  src: url('fonts/Police-Title.otf');
+}
+
+@font-face{
+  font-family: 'Police-Text';
+  src: url('fonts/Police-Text.otf');
+}
+
+h1{
+    font-family: 'Police-Title';
+}
+
+h1{
+    font-family: 'Police-Text';
+}
